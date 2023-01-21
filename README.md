@@ -2,4 +2,5 @@
 Repositories that I find interesting for whatever reason.
 
 ### AI
-* https://github.com/openai/openai-cookbook
+* #OpenAI Cookbook - https://github.com/openai/openai-cookbook
+* ChatGPT-Comparison-Detection Project - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
