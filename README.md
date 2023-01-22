@@ -6,7 +6,8 @@ Repositories that I find interesting for whatever reason.
 * **Scalability** - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems - https://github.com/binhnguyennus/awesome-scalability
 * **CS Courses** ⌨️ - https://github.com/prakhar1989/awesome-courses
 * **Interview Questions** 🤔 - https://github.com/DopplerHQ/awesome-interview-questions\
-* Papers We Love 📜- https://github.com/papers-we-love/papers-we-love
+* **Papers** We Love 📜- https://github.com/papers-we-love/papers-we-love
+* Awesome Learning Resources (different programming languages) - https://github.com/lauragift21/awesome-learning-resources
 
 ### General (Tech of course)
 * Random list of interesting things - https://github.com/sindresorhus/awesome
