@@ -26,3 +26,4 @@ Repositories that I find interesting for whatever reason.
   * Implementation - https://openai-openai-detector.hf.space/
   * Another example - https://gptzero.me/
  * 🧠 Awesome ChatGPT Prompts - https://github.com/f/awesome-chatgpt-prompts
+ * AI and ML - From 0 to Research Scientist guides - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
