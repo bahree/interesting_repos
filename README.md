@@ -27,3 +27,8 @@ Repositories that I find interesting for whatever reason.
   * Another example - https://gptzero.me/
  * 🧠 Awesome ChatGPT Prompts - https://github.com/f/awesome-chatgpt-prompts
  * AI and ML - From 0 to Research Scientist guides - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+
+### AI - Tokensizer
+* Google SentencePiece - unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation - https://github.com/google/sentencepiece
+* OpenAI tiktoken - Fast byte-pair-encoding (BPE) tokeniser for use with OpenAI's models - https://github.com/openai/tiktoken
+
