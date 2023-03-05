@@ -16,10 +16,10 @@ Repositories that I find interesting for whatever reason.
 * Console Services 💻 - A curated list of awesome console services -  https://github.com/chubin/awesome-console-services
 * Dockly - Immersive terminal interface for managing docker - https://github.com/lirantal/dockly
 
-### Random, Geeky Stuff
+### Random, Geeky Stuff 🛺
 * 🌀 A nonsense activity generator - https://github.com/bahree/busy
 
-### AI
+### AI 🤖
 * OpenAI Cookbook - https://github.com/openai/openai-cookbook
 * ChatGPT-Comparison-Detection Project - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 * OpenAI Detector (RoBERTa Base) - https://huggingface.co/roberta-base-openai-detector
@@ -28,10 +28,10 @@ Repositories that I find interesting for whatever reason.
  * 🧠 Awesome ChatGPT Prompts - https://github.com/f/awesome-chatgpt-prompts
  * AI and ML - From 0 to Research Scientist guides - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
-### AI - Tokensizer
+### AI - Tokensizer 
 * Google SentencePiece - unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation - https://github.com/google/sentencepiece
 * OpenAI tiktoken - Fast byte-pair-encoding (BPE) tokeniser for use with OpenAI's models - https://github.com/openai/tiktoken
 
-### AI - LLM
+### AI - LLM 📚
 * Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps - https://github.com/microsoft/semantic-kernel
 * LangChain - Building applications with LLMs through composability - https://github.com/hwchase17/langchain
