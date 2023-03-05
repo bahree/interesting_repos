@@ -27,6 +27,7 @@ Repositories that I find interesting for whatever reason.
   * Another example - https://gptzero.me/
  * 🧠 Awesome ChatGPT Prompts - https://github.com/f/awesome-chatgpt-prompts
  * AI and ML - From 0 to Research Scientist guides - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+ * 💻Codex CLI - Use Codex to convert natural language commands into commands in PowerShell, Z shell and Bash - https://github.com/microsoft/Codex-CLI
 
 ### AI - Tokensizer 
 * Google **SentencePiece** - unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation - https://github.com/google/sentencepiece
