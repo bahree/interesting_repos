@@ -34,3 +34,4 @@ Repositories that I find interesting for whatever reason.
 
 ### AI - LLM
 * Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps - https://github.com/microsoft/semantic-kernel
+* LangChain - Building applications with LLMs through composability - https://github.com/hwchase17/langchain
