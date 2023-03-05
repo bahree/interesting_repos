@@ -32,3 +32,5 @@ Repositories that I find interesting for whatever reason.
 * Google SentencePiece - unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation - https://github.com/google/sentencepiece
 * OpenAI tiktoken - Fast byte-pair-encoding (BPE) tokeniser for use with OpenAI's models - https://github.com/openai/tiktoken
 
+### AI - LLM
+* Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps - https://github.com/microsoft/semantic-kernel
