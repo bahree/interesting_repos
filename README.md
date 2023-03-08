@@ -18,6 +18,8 @@ Repositories that I find interesting for whatever reason.
 
 ### Random, Geeky Stuff 🛺
 * 🌀 A nonsense activity generator - https://github.com/bahree/busy
+* ASCII Splash Screen - https://github.com/DanCRichards/ASCII-Art-Splash-Screen
+* Magic Tooltips - https://github.com/pschaeflein/MagicTooltips (PowerShell)
 
 ### AI 🤖
 * OpenAI Cookbook - https://github.com/openai/openai-cookbook
