@@ -30,6 +30,7 @@ Repositories that I find interesting for whatever reason.
  * 🧠 Awesome ChatGPT Prompts - https://github.com/f/awesome-chatgpt-prompts
  * AI and ML - From 0 to Research Scientist guides - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
  * 💻Codex CLI - Use Codex to convert natural language commands into commands in PowerShell, Z shell and Bash - https://github.com/microsoft/Codex-CLI
+ * Azure AML Foundational models - https://github.com/Azure/azureml-foundation-models
 
 ### AI - Tokensizer 
 * Google **SentencePiece** - unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation - https://github.com/google/sentencepiece
@@ -39,4 +40,4 @@ Repositories that I find interesting for whatever reason.
 * **Semantic Kernel** - Integrate cutting-edge LLM technology quickly and easily into your apps - https://github.com/microsoft/semantic-kernel
 * **LangChain** - Building applications with LLMs through composability - https://github.com/hwchase17/langchain
 * **LlamaIndex** (GPT Index) - Central interface to connect your LLM's with external data - https://github.com/jerryjliu/gpt_index
-* Toolformer Zero - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper - https://github.com/minosvasilias/toolformer-zero
+* **Toolformer Zero** - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper - https://github.com/minosvasilias/toolformer-zero
