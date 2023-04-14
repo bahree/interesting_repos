@@ -41,3 +41,4 @@ Repositories that I find interesting for whatever reason.
 * **LangChain** - Building applications with LLMs through composability - https://github.com/hwchase17/langchain
 * **LlamaIndex** (GPT Index) - Central interface to connect your LLM's with external data - https://github.com/jerryjliu/gpt_index
 * **Toolformer Zero** - React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper - https://github.com/minosvasilias/toolformer-zero
+* **Stanford Alpaca**: An Instruction-following LLaMA Model - https://github.com/tatsu-lab/stanford_alpaca
